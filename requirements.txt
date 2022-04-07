@@ -1,0 +1,9 @@
+pytest
+pycodestyle
+pandas
+transformers
+torch
+flask
+sklearn
+numpy
+matplotlib
